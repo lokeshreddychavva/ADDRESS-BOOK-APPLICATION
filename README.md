@@ -6,10 +6,10 @@ This application has main menu which includes four buttons which has create new 
 
 Address book Application Implementation. It will have following functionalities:
 
-1.	Main activity with the following functionalities.
+Main activity with the following functionalities.
 
-  1.1.	Three buttons namely add contact, view contact and delete contact. Add contact button takes to add contact page to fill all the contact details like name,       phone, email, address, zip, state, type of contact, description of contact, Facebook profile link. View contact button takes to another page which displays contacts. delete contact button allows to delete the contact.
-  1.2.	It will have text view to display the title of the page.
+Three buttons namely add contact, view contact and delete contact. Add contact button takes to add contact page to fill all the contact details like name,       phone, email, address, zip, state, type of contact, description of contact, Facebook profile link. View contact button takes to another page which displays contacts. delete contact button allows to delete the contact.
+It will have text view to display the title of the page.
 
 2.	Add contact activity with the following functionalities. 
   2.1.	It will have text view to display the title of the page.
